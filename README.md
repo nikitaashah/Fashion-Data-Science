@@ -1,2 +1,4 @@
 # Fashion-Data-Science
-A collection of AI-powered fashion analysis projects!
+
+# 👗 Fashion Data Science
+*A collection of AI-powered fashion analysis projects!*
